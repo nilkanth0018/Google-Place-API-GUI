@@ -2,14 +2,14 @@
 
 How to create build
 - Install maven on your system.
-- Clone this repository to your local machine
-- Open command prompt and to create build use below commands
+- Clone this repository to your local machine.
+- Open command prompt and to create build, go to your project folder and use below commands.
   
   - MVN CLEAN
   - MVN INSTALL
   - MVN PACKAGE
   
- - Now build is sucessfully created
+ - Now build is sucessfully created, see target folder is created in the project folder.
  - Go to target folder and copy config, resources, logs folder along with created jar file and paste to your desire location.
  
  NOTE: To run the project you need google API key.
