@@ -1,7 +1,7 @@
 # Google-Place-API-GUI
 
 How to create build
-- Install maven ob your system.
+- Install maven on your system.
 - Clone this repository to your local machine
 - Open command prompt and to create build use below commands
   
